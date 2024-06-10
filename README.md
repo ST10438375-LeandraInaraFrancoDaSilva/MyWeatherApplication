@@ -10,15 +10,27 @@ The Weather Application
 
 This app looks forward promote an easy way for professionals inside of a forecast organization to store the maximum and minimum temperatures achieved on several days as well as weather conditions. It displays comprehensive details by the input of day, maximum temperature and minimum temperature both in gradus Celsius and condition of weather on the specific day, average of temperature is also displayed by adding the maximum and minimum one and dividing it by 2.
 The app makes use of three pages, the first one is only responsible to direct users to the next page or exit the app, is the welcome one.
+
+![image](https://github.com/ST10438375-LeandraInaraFrancoDaSilva/MyWeatherApplication/assets/164514904/91969c1c-0e96-48e2-b986-19e936f119f1)
+
  
 Once the start button is pressed the page responsible for taking the information inputted by the users takes place in there 4 details can be added by clicking in the add button, information can be cleared in order for other to be re-entered by clicking on the clear button, access to the next page is granted by clicking on the details button and the user can exit the app by clicking the exit button.
+
+![image](https://github.com/ST10438375-LeandraInaraFrancoDaSilva/MyWeatherApplication/assets/164514904/f79239c0-acd6-450f-9e7f-578c02a2ca20)
+
  
 In this page toasts were also placed in order for users to interact more clearly with app, if information was missing the users would get a message on that, if it was successfully added another toast would take place and so on.
+
+![image](https://github.com/ST10438375-LeandraInaraFrancoDaSilva/MyWeatherApplication/assets/164514904/a7ce382c-0f5a-4d94-a47b-a6d6db95268b)
+
  
 The third one is where the details inputted are displayed as well as the average, the user also gets to go back to the previous page by clicking in the respective button, the information is shown in a specific format stipulated in the code and the average calculated by a formula also placed there. 
  
+![image](https://github.com/ST10438375-LeandraInaraFrancoDaSilva/MyWeatherApplication/assets/164514904/07ee0164-7952-425b-a515-6cf2833d9941)
 
- 
+![image](https://github.com/ST10438375-LeandraInaraFrancoDaSilva/MyWeatherApplication/assets/164514904/214d105c-01d7-4168-a1b3-818f8d543abe)
+
+
 
 Pseudocode:
 
